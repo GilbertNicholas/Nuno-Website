@@ -14,7 +14,7 @@ You can run this project directly since this made from HTML, CSS, and Bootstrap.
 ## Project's Preview
 <p align="center"><img src="Homepage.png"></p><br>
 <p align="center"><img src="Features.png"></p><br>
-<p align="center"><img src="Contact.png"></p><br>
+<p align="center"><img src="Contacts.png"></p><br>
 
 ## Technologies
 ▸ HTML<br>
